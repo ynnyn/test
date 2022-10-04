@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.figma" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".settings_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"
+		android:exported="true"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.figma.set_alarm_activity"></activity>
+			<activity android:name="exportkit.figma.set_goal_activity"></activity>
+			<activity android:name="exportkit.figma.theme_activity"></activity>
+			<activity android:name="exportkit.figma.password_activity"></activity>
+			<activity android:name="exportkit.figma.language_activity"></activity>
+			<activity android:name="exportkit.figma.set_goal_2_activity"></activity>
+			<activity android:name="exportkit.figma.set_alarm_2_activity"></activity>
+			<activity android:name="exportkit.figma.summary_activity"></activity>
+			<activity android:name="exportkit.figma.summary_2_activity"></activity>
+			<activity android:name="exportkit.figma.pray_start_activity"></activity>
+			<activity android:name="exportkit.figma.pray_stop_activity"></activity>
+			<activity android:name="exportkit.figma.calendar_activity"></activity>
+			<activity android:name="exportkit.figma.today_s_report_activity"></activity>
+			<activity android:name="exportkit.figma.diary_prayer_activity"></activity>
+			<activity android:name="exportkit.figma.diary_thanksgiving_activity"></activity>
+			<activity android:name="exportkit.figma.diary_favorits_activity"></activity>
+			<activity android:name="exportkit.figma.dad_activity"></activity>
+			<activity android:name="exportkit.figma.prayer_activity"></activity>
+			<activity android:name="exportkit.figma.thanks_of_the_day_activity"></activity>
+			<activity android:name="exportkit.figma.dad_fav_activity"></activity>
+			<activity android:name="exportkit.figma.dad_flower_activity"></activity>
+			<activity android:name="exportkit.figma.family_activity"></activity>
+			<activity android:name="exportkit.figma.main_activity"></activity>
+			<activity android:name="exportkit.figma.side_bar_activity"></activity>
+			<activity android:name="exportkit.figma.music_categories_activity"></activity>
+	</application>
+
+</manifest>
+	
+	

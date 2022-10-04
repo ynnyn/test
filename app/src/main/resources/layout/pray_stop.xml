@@ -1,0 +1,207 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		settings
+	 *	@date 		Tuesday 04th of October 2022 12:49:28 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/pray_stop" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_pray_stop_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__pray_stop_ek2"
+					android:background="@drawable/_bg__pray_stop_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<View   android:id="@+id/rectangle_52"
+					android:background="@drawable/rectangle_52_shape"
+					 android:layout_marginStart="1dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="567dp" />
+
+
+				<RelativeLayout android:id="@+id/stop_button"
+					android:layout_marginTop="490dp"
+					android:layout_marginStart="140dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_3_ek6"
+						android:background="@drawable/rectangle_3_ek6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="82dp"
+						android:layout_height="38.18dp" />
+
+					<TextView android:id="@+id/stop"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="18sp"
+						android:textColor="@color/bottom_line_color"
+						android:layout_marginLeft="14dp"
+						android:layout_marginTop="8dp"
+						android:layout_width="63dp"
+						android:layout_height="35dp"
+						android:text="@string/stop_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/_00___00___00_ek1"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="35sp"
+					android:textColor="@color/rectangle_2_color"
+					android:layout_marginLeft="80dp"
+					android:layout_marginTop="79dp"
+					android:layout_width="213dp"
+					android:layout_height="66.5dp"
+					android:text="@string/_00___00___00_ek1_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/menu_bar_ek12"
+					android:layout_marginTop="567dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/profile_ek20"
+						android:src="@drawable/profile_ek20"
+						android:contentDescription="profile_ek20"
+						 android:layout_marginStart="280dp"
+						android:layout_marginTop="20dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<ImageView android:id="@+id/___summary_ek12"
+						android:src="@drawable/___summary_ek12"
+						android:contentDescription="___summary_ek12"
+						 android:layout_marginStart="215dp"
+						android:layout_marginTop="20dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<ImageView android:id="@+id/_calendar_ek12"
+						android:src="@drawable/_calendar_ek12"
+						android:contentDescription="_calendar_ek12"
+						 android:layout_marginStart="77dp"
+						android:layout_marginTop="21dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<ImageView android:id="@+id/_home_ek12"
+						android:src="@drawable/_home_ek12"
+						android:contentDescription="_home_ek12"
+						 android:layout_marginStart="12dp"
+						android:layout_marginTop="21dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<View   android:id="@+id/bottom_line_ek48"
+						android:background="@drawable/bottom_line_ek48_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="328dp"
+						android:layout_height="1dp" />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/music_ek1"
+					android:src="@drawable/music_ek1"
+					android:contentDescription="music_ek1"
+					 android:layout_marginStart="303dp"
+					android:layout_marginTop="25dp"
+					android:layout_width="40dp"
+					android:layout_height="40dp" />
+
+				<ImageView android:id="@+id/_pray_ek7"
+					android:src="@drawable/_pray_ek7"
+					android:contentDescription="_pray_ek7"
+					 android:layout_marginStart="163dp"
+					android:layout_marginTop="587dp"
+					android:layout_width="35dp"
+					android:layout_height="35dp" />
+
+
+				<RelativeLayout android:id="@+id/__today_s_prayer_ek1"
+					android:layout_marginTop="147dp"
+					android:layout_marginStart="29dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/blue_box_ek1"
+						android:background="@drawable/blue_box_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="303dp"
+						android:layout_height="315dp" />
+
+					<TextView android:id="@+id/today_s_prayer"
+						android:fontFamily="Inter"
+						android:textSize="13sp"
+						android:textColor="@color/bottom_line_color"
+						android:layout_marginLeft="97dp"
+						android:layout_marginTop="18dp"
+						android:layout_width="127.5dp"
+						android:layout_height="39.15dp"
+						android:text="@string/today_s_prayer_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

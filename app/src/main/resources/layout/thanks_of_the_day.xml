@@ -1,0 +1,159 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		settings
+	 *	@date 		Tuesday 04th of October 2022 12:49:28 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/thanks_of_the_day" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_thanks_of_the_day_ek3"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__thanks_of_the_day_ek4"
+					android:background="@drawable/_bg__thanks_of_the_day_ek4_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+
+				<RelativeLayout android:id="@+id/p_1_ek3"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/box_ek7"
+						android:background="@drawable/box_ek7_shape"
+						 android:alpha="0.62999999523163"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="360dp"
+						android:layout_height="640dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/memo_ek5"
+					android:layout_marginTop="80dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/memo_ek6"
+						android:background="@drawable/memo_ek6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="311dp"
+						android:layout_height="528dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/thanks_of_today"
+					android:fontFamily="Inter"
+					android:textSize="18sp"
+					android:textColor="@color/bottom_line_color"
+					android:layout_marginLeft="95dp"
+					android:layout_marginTop="34dp"
+					android:layout_width="193dp"
+					android:layout_height="35dp"
+					android:text="@string/thanks_of_today_string"
+					 />
+
+				<TextView android:id="@+id/today_s_status"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/bottom_line_color"
+					android:layout_marginLeft="222dp"
+					android:layout_marginTop="94dp"
+					android:layout_width="108.5dp"
+					android:layout_height="25.5dp"
+					android:text="@string/today_s_status_string"
+					 />
+
+				<ImageView android:id="@+id/pencil_ek3"
+					android:src="@drawable/pencil_ek3"
+					android:contentDescription="pencil_ek3"
+					 android:layout_marginStart="47dp"
+					android:layout_marginTop="161dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+				<ImageView android:id="@+id/smile_ek2"
+					android:src="@drawable/smile_ek2"
+					android:contentDescription="smile_ek2"
+					 android:layout_marginStart="245dp"
+					android:layout_marginTop="119dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+				<ImageView android:id="@+id/smile_ek3"
+					android:src="@drawable/smile_ek3"
+					android:contentDescription="smile_ek3"
+					 android:layout_marginStart="222dp"
+					android:layout_marginTop="119dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+				<ImageView android:id="@+id/smile_ek4"
+					android:src="@drawable/smile_ek4"
+					android:contentDescription="smile_ek4"
+					 android:layout_marginStart="291dp"
+					android:layout_marginTop="119dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+				<ImageView android:id="@+id/smile_ek5"
+					android:src="@drawable/smile_ek5"
+					android:contentDescription="smile_ek5"
+					 android:layout_marginStart="268dp"
+					android:layout_marginTop="119dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

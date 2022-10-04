@@ -1,0 +1,204 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		settings
+	 *	@date 		Tuesday 04th of October 2022 12:49:28 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/diary_favorits" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_diary_favorits_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__diary_favorits_ek2"
+					android:background="@drawable/_bg__diary_favorits_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+
+				<RelativeLayout android:id="@+id/__banner_ek15"
+					android:layout_marginTop="22dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/top_line_ek17"
+						android:background="@drawable/top_line_ek17_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="49dp"
+						android:layout_width="328dp"
+						android:layout_height="1dp" />
+
+					<ImageView android:id="@+id/previous_ek6"
+						android:src="@drawable/previous_ek6"
+						android:contentDescription="previous_ek6"
+						 android:layout_marginStart="52dp"
+						android:layout_marginTop="4dp"
+						android:layout_width="20dp"
+						android:layout_height="20dp" />
+
+					<TextView android:id="@+id/favourites"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="25sp"
+						android:textColor="@color/top_line_color"
+						android:layout_marginLeft="98dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="141dp"
+						android:layout_height="47.5dp"
+						android:text="@string/favourites_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/rectangle_41_ek4"
+					android:src="@drawable/rectangle_41_ek4"
+					android:contentDescription="rectangle_41_ek4"
+					 android:layout_marginStart="20dp"
+					android:layout_marginTop="26dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+				<ImageView android:id="@+id/_rectangle_42_ek4"
+					android:src="@drawable/_rectangle_42_ek4"
+					android:contentDescription="_rectangle_42_ek4"
+					 android:layout_marginStart="320dp"
+					android:layout_marginTop="26dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+
+				<RelativeLayout android:id="@+id/menu_bar_ek17"
+					android:layout_marginTop="567dp"
+					android:layout_marginStart="16dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/profile_ek25"
+						android:src="@drawable/profile_ek25"
+						android:contentDescription="profile_ek25"
+						 android:layout_marginStart="280dp"
+						android:layout_marginTop="20dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<ImageView android:id="@+id/___summary_ek17"
+						android:src="@drawable/___summary_ek17"
+						android:contentDescription="___summary_ek17"
+						 android:layout_marginStart="215dp"
+						android:layout_marginTop="20dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<ImageView android:id="@+id/_calendar_ek20"
+						android:src="@drawable/_calendar_ek20"
+						android:contentDescription="_calendar_ek20"
+						 android:layout_marginStart="77dp"
+						android:layout_marginTop="21dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<ImageView android:id="@+id/_home_ek17"
+						android:src="@drawable/_home_ek17"
+						android:contentDescription="_home_ek17"
+						 android:layout_marginStart="12dp"
+						android:layout_marginTop="21dp"
+						android:layout_width="35dp"
+						android:layout_height="35dp" />
+
+					<View   android:id="@+id/bottom_line_ek53"
+						android:background="@drawable/bottom_line_ek53_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="328dp"
+						android:layout_height="1dp" />
+
+				</RelativeLayout>
+
+				<View   android:id="@+id/box_ek2"
+					android:background="@drawable/box_ek2_shape"
+					 android:layout_marginStart="28dp"
+					android:layout_marginTop="98dp"
+					android:layout_width="303dp"
+					android:layout_height="124dp" />
+
+				<TextView android:id="@+id/_2022_09_10_ek1"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/bottom_line_color"
+					android:layout_marginLeft="42dp"
+					android:layout_marginTop="109dp"
+					android:layout_width="88.5dp"
+					android:layout_height="25.5dp"
+					android:text="@string/_2022_09_10_ek1_string"
+					 />
+
+				<ImageView android:id="@+id/_pray_ek12"
+					android:src="@drawable/_pray_ek12"
+					android:contentDescription="_pray_ek12"
+					 android:layout_marginStart="163dp"
+					android:layout_marginTop="587dp"
+					android:layout_width="35dp"
+					android:layout_height="35dp" />
+
+				<TextView android:id="@+id/category_ek1"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/category_color"
+					android:layout_marginLeft="124dp"
+					android:layout_marginTop="108dp"
+					android:layout_width="75dp"
+					android:layout_height="27dp"
+					android:text="@string/category_ek1_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

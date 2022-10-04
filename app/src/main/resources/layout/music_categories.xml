@@ -1,0 +1,182 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		settings
+	 *	@date 		Tuesday 04th of October 2022 12:49:28 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/music_categories" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_music_categories_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__music_categories_ek2"
+					android:background="@drawable/_bg__music_categories_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="219dp"
+					android:layout_height="640dp" />
+
+				<View   android:id="@+id/rectangle_1_ek1"
+					android:background="@drawable/rectangle_1_ek1_shape"
+					 android:alpha="0.98000001907349"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="219dp"
+					android:layout_height="640dp" />
+
+				<View   android:id="@+id/line_ek3"
+					android:background="@drawable/line_ek3_shape"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="224dp"
+					android:layout_width="191dp"
+					android:layout_height="1dp" />
+
+				<TextView android:id="@+id/thanks"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/top_line_color"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="183dp"
+					android:layout_width="205.5dp"
+					android:layout_height="43.5dp"
+					android:text="@string/thanks_string"
+					 />
+
+				<View   android:id="@+id/line_ek4"
+					android:background="@drawable/line_ek4_shape"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="173dp"
+					android:layout_width="191dp"
+					android:layout_height="1dp" />
+
+				<TextView android:id="@+id/hope"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/top_line_color"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="132dp"
+					android:layout_width="205.5dp"
+					android:layout_height="43.5dp"
+					android:text="@string/hope_string"
+					 />
+
+				<View   android:id="@+id/line_ek5"
+					android:background="@drawable/line_ek5_shape"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="122dp"
+					android:layout_width="191dp"
+					android:layout_height="1dp" />
+
+				<TextView android:id="@+id/faith"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/top_line_color"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="80dp"
+					android:layout_width="205.5dp"
+					android:layout_height="43.5dp"
+					android:text="@string/faith_string"
+					 />
+
+				<View   android:id="@+id/top_line_ek24"
+					android:background="@drawable/top_line_ek24_shape"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="71dp"
+					android:layout_width="191dp"
+					android:layout_height="1dp" />
+
+				<TextView android:id="@+id/music_categories_ek3"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/bottom_line_color"
+					android:layout_marginLeft="68dp"
+					android:layout_marginTop="21dp"
+					android:layout_width="100.5dp"
+					android:layout_height="45.5dp"
+					android:text="@string/music_categories_ek3_string"
+					 />
+
+				<ImageView android:id="@+id/rectangle_47_ek2"
+					android:src="@drawable/rectangle_47_ek2"
+					android:contentDescription="rectangle_47_ek2"
+					 android:layout_marginStart="16dp"
+					android:layout_marginTop="604dp"
+					android:layout_width="20dp"
+					android:layout_height="20dp" />
+
+				<ImageView android:id="@+id/_music_ek2"
+					android:src="@drawable/_music_ek2"
+					android:contentDescription="_music_ek2"
+					 android:layout_marginStart="16dp"
+					android:layout_marginTop="15dp"
+					android:layout_width="40dp"
+					android:layout_height="40dp" />
+
+				<ImageView android:id="@+id/play"
+					android:src="@drawable/play"
+					android:contentDescription="play"
+					 android:layout_marginStart="180dp"
+					android:layout_marginTop="87dp"
+					android:layout_width="18dp"
+					android:layout_height="18dp" />
+
+				<ImageView android:id="@+id/play_ek1"
+					android:src="@drawable/play_ek1"
+					android:contentDescription="play_ek1"
+					 android:layout_marginStart="180dp"
+					android:layout_marginTop="139dp"
+					android:layout_width="18dp"
+					android:layout_height="18dp" />
+
+				<ImageView android:id="@+id/play_ek2"
+					android:src="@drawable/play_ek2"
+					android:contentDescription="play_ek2"
+					 android:layout_marginStart="180dp"
+					android:layout_marginTop="191dp"
+					android:layout_width="18dp"
+					android:layout_height="18dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

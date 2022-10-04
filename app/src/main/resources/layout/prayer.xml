@@ -1,0 +1,157 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		settings
+	 *	@date 		Tuesday 04th of October 2022 12:49:28 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/prayer" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_prayer_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__prayer_ek2"
+					android:background="@drawable/_bg__prayer_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="303dp"
+					android:layout_height="449dp" />
+
+
+				<RelativeLayout android:id="@+id/p_1_ek2"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/box_ek6"
+						android:background="@drawable/box_ek6_shape"
+						 android:alpha="0.62999999523163"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="303dp"
+						android:layout_height="449dp" />
+
+					<TextView android:id="@+id/_2022_09_15_ek2"
+						android:fontFamily="Inter"
+						android:textSize="13sp"
+						android:textColor="@color/bottom_line_color"
+						android:layout_marginLeft="15dp"
+						android:layout_marginTop="14dp"
+						android:layout_width="87.5dp"
+						android:layout_height="25.5dp"
+						android:text="@string/_2022_09_15_ek2_string"
+						 />
+
+					<ImageView android:id="@+id/seed_ek3"
+						android:src="@drawable/seed_ek3"
+						android:contentDescription="seed_ek3"
+						 android:layout_marginStart="268dp"
+						android:layout_marginTop="12dp"
+						android:layout_width="20dp"
+						android:layout_height="20dp" />
+
+					<ImageView android:id="@+id/pencil_ek2"
+						android:src="@drawable/pencil_ek2"
+						android:contentDescription="pencil_ek2"
+						 android:layout_marginStart="257dp"
+						android:layout_marginTop="288dp"
+						android:layout_width="25dp"
+						android:layout_height="25dp" />
+
+					<ImageView android:id="@+id/star_ek3"
+						android:src="@drawable/star_ek3"
+						android:contentDescription="star_ek3"
+						 android:layout_marginStart="240dp"
+						android:layout_marginTop="12dp"
+						android:layout_width="20dp"
+						android:layout_height="20dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/text_box_ek2"
+					android:fontFamily="Inter"
+					android:textSize="13sp"
+					android:textColor="@color/bottom_line_color"
+					android:layout_marginLeft="22dp"
+					android:layout_marginTop="56dp"
+					android:layout_width="278.5dp"
+					android:layout_height="268.5dp"
+					android:text="@string/text_box_ek2_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/memo_ek2"
+					android:layout_marginTop="331dp"
+					android:layout_marginStart="22dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/memo_ek3"
+						android:background="@drawable/memo_ek3_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="260dp"
+						android:layout_height="100dp" />
+
+					<TextView android:id="@+id/memo_ek4"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textColor="@color/top_line_color"
+						android:layout_marginLeft="8dp"
+						android:layout_marginTop="11dp"
+						android:layout_width="45dp"
+						android:layout_height="21.12dp"
+						android:text="@string/memo_ek4_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
